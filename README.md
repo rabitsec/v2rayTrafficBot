@@ -26,13 +26,3 @@ bash <(curl -Ls https://raw.githubusercontent.com/TeleDark/v2ray-tel-bot/main/in
 
 <hr>
 
-## ❤️ Donate
-
-### BTC
-Address: `bc1qtx3s7vntrj2aa82kmxx37scyyhv2hgch2ljrc0`
-
-### TRON
-Address: `TFvdz2LxQRr5bPM5zrawH7UdaqA6jj5J4L`
-
-### USDT (TRC-20)
-Address: `TJwCKAVnD54xLWzjjb5YecspVVKgbJBvuH`
